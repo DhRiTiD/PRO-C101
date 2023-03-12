@@ -17,3 +17,11 @@
 - used a function of `time` package -- `time.sleep()` to delay the loop by one second for the  timer
 
 # Project - Roll a dice
+- created a simple program to obtain a random die throw 
+- imported `random`
+- used `random.randint(start, end)` to take anyno. within the range at random
+- the output is as folllows:
+
+  ![image](https://user-images.githubusercontent.com/74966124/224573084-7d119480-29db-43bb-86d8-992433eba8a0.png)
+
+[created on VSC]
